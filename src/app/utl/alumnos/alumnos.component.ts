@@ -6,6 +6,9 @@ import { AlumnosUtl } from '../utl';
 import { ProyectoapiService } from '../proyectoapi.service';
 import { RouterLink } from '@angular/router';
  
+ 
+ 
+ 
 @Component({
   selector: 'app-alumnos',
   standalone: true,
